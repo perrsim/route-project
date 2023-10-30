@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/route-project/static/css/main.751ccba4.css",
+    "main.js": "/route-project/static/js/main.01606028.js",
+    "index.html": "/route-project/index.html",
+    "main.751ccba4.css.map": "/route-project/static/css/main.751ccba4.css.map",
+    "main.01606028.js.map": "/route-project/static/js/main.01606028.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.751ccba4.css",
+    "static/js/main.01606028.js"
+  ]
+}
